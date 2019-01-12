@@ -1,0 +1,2 @@
+# Weatherapp
+Each time this program is run the user will input an location (in the form of "City, Country" where it is the only first two letters of the country, auto is Waterloo, CA), it will gather API data from openweathermap.org and display it, as well as saving it to a text file named the same thing as the input data for offline viewing. However, due to the constraints of the API, the weather is every three hours and will go five days forward in time. 
